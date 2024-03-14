@@ -1,0 +1,63 @@
+[
+      {
+        "name": "Smartphone",
+        "price": 599.99,
+        "description": "A high-end smartphone with the latest features.",
+        "image_link": "https://www.phoneworld.com.pk/wp-content/uploads/2020/10/smartphone-brands.jpg"
+      },
+      {
+        "name": "Laptop",
+        "price": 999.99,
+        "description": "A powerful laptop suitable for work and entertainment.",
+        "image_link": "https://media.wired.com/photos/64daad6b4a854832b16fd3bc/191:100/w_1280,c_limit/How-to-Choose-a-Laptop-August-2023-Gear.jpg"
+      },
+      {
+        "name": "Headphones",
+        "price": 149.99,
+        "description": "Premium noise-canceling headphones for immersive listening.",
+        "image_link": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Smartwatch",
+        "price": 199.99,
+        "description": "Stay connected and track your fitness with this smartwatch.",
+        "image_link": "https://www.cnet.com/a/img/resize/770007077c38361ca13ef0b0aa4c208f88fa2053/hub/2023/09/20/9e9b8e2b-04ee-4087-b819-c99ec8bbc980/apple-watch-ultra-2-7.jpg?auto=webp&fit=crop&height=1200&width=1200"
+      },
+      {
+        "name": "Wireless Speaker",
+        "price": 79.99,
+        "description": "Portable wireless speaker for enjoying music on the go.",
+        "image_link": "https://diamu.com.bd/wp-content/uploads/2023/04/Oraimo-Rover-RGB-Lights-Portable-Speaker.jpg"
+      },
+      {
+        "name": "Fitness Tracker",
+        "price": 79.99,
+        "description": "Monitor your health and fitness goals with this tracker.",
+        "image_link": "https://cdn.vox-cdn.com/thumbor/MshSJ5rL-aUJkEk4dnATU1Hu2Ng=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23336503/acastro_220321_5092_0001.jpg"
+      },
+      {
+        "name": "Gaming Console",
+        "price": 399.99,
+        "description": "Experience immersive gaming with this powerful console.",
+        "image_link": "https://m.media-amazon.com/images/I/61y0N1Si-DL._SL1001_.jpg"
+      },
+      {
+        "name": "Tablet",
+        "price": 299.99,
+        "description": "Portable tablet for entertainment and productivity.",
+        "image_link": "https://www.cnet.com/a/img/resize/d0d426bcd4f2d26508392fdd5c1f940ec2306f86/hub/2022/09/21/47c608fa-2353-4ae6-a676-36a44e11ff4d/fire-hd-8-plus-2022-in-hand-lifestyle-02.jpg?auto=webp&fit=crop&height=576&width=768"
+      },
+      {
+        "name": "Camera",
+        "price": 599.99,
+        "description": "Capture memories with this high-quality digital camera.",
+        "image_link": "https://www.adorama.com/alc/wp-content/uploads/2021/04/photography-camera-types-feature.jpg"
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 129.99,
+        "description": "Enjoy music without tangled wires with these earbuds.",
+        "image_link": "https://hips.hearstapps.com/hmg-prod/images/wireless-earbuds-1661183784.jpg?crop=0.567xw:1.00xh;0.283xw,0&resize=640:*"
+      }
+    ]
+  
